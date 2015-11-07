@@ -1,0 +1,6 @@
+string object_class
+float64 confidence
+float64 bounding_box_x0
+float64 bounding_box_y0
+float64 bounding_box_width
+float64 bounding_box_height

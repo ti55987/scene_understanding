@@ -1,0 +1,4 @@
+5,./test_cropped/chair
+5,./test_cropped/human
+5,./test_cropped/monitor
+5,./test_cropped/other

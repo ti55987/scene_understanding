@@ -1,0 +1,4 @@
+25,./cropped/chair
+25,./cropped/human
+25,./cropped/monitor
+5,./cropped/other
